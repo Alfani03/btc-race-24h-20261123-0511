@@ -1,3 +1,8 @@
+[![make.fun](https://make.fun/badge/btc-race-24h-20261123-0511.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511)
+[![Rank](https://make.fun/badge/btc-race-24h-20261123-0511/Alfani03/btc-race-24h-20261123-0511/rank.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511)
+[![Reward](https://make.fun/badge/btc-race-24h-20261123-0511/Alfani03/btc-race-24h-20261123-0511/reward.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511)
+[Race a BTC trading bot live for 24 hours](https://make.fun/bounty/btc-race-24h-20261123-0511)
+
 # BTC Race Bot — cbBTC/USDC, 1-minute bars
 
 Slow trend-follower for the make.fun bounty `btc-race-24h-20261123-0511`
